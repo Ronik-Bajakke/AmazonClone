@@ -88,11 +88,11 @@ AmazonClone/
 
 Here are a few previews of the project:
 
-**Photo 1**
+**Page Layout 1**
 ![Amazon Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon1.png)  
-**Photo 2**
+**Page Layout 2**
 ![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon2.png) 
-**Photo 3** 
+**Page Layout 3** 
 ![Amazon Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon3.png)  
 
 ---
