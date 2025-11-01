@@ -1,35 +1,37 @@
-# 🛒 Amazon Clone
+# 🛒 Amazon Clone  
 
-A visually accurate **Amazon homepage clone** built using **HTML and CSS**.\
+![Amazon Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/banner.png)
+
+A visually accurate **Amazon homepage clone** built using **HTML and CSS**.  
 This project replicates the structure, layout, and visual design of the Amazon India website — demonstrating front-end development skills using only static technologies.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo  
 
 👉 **[Visit the Live Site](https://ronik-bajakke.github.io/AmazonClone/)**  
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Overview  
 
-This project was created as a front-end practice clone to enhance UI development skills.\
+This project was created as a front-end practice clone to enhance UI development skills.  
 It covers layout building, positioning, flexbox usage, and styling consistency — all done **without frameworks or JavaScript**.
 
 ---
 
-## 🧠 Features
+## 🧠 Features  
 
-- ✅ Fully responsive layout
-- 🧩 Navigation bar with logo, location, and search box
-- 💬 Product category panels with hover effects
-- 🖼️ Hero banner and promotional sections
-- 📦 Grid-style product boxes with images and captions
-- ⚡ Clean, static footer with multiple link sections
+- ✅ Fully responsive layout  
+- 🧩 Navigation bar with logo, location, and search box  
+- 💬 Product category panels with hover effects  
+- 🖼️ Hero banner and promotional sections  
+- 📦 Grid-style product boxes with images and captions  
+- ⚡ Clean, static footer with multiple link sections  
 
 ---
 
-## 🏗️ Built With
+## 🏗️ Built With  
 
 - **HTML5** — for structuring the webpage  
 - **CSS3** — for styling, flexbox layout, and responsive design  
@@ -37,7 +39,7 @@ It covers layout building, positioning, flexbox usage, and styling consistency �
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure  
 
 ```
 AmazonClone/
@@ -60,21 +62,21 @@ AmazonClone/
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally  
 
 1. Clone the repository  
    ```bash
    git clone https://github.com/ronik-bajakke/AmazonClone.git
-   ```
+   ```  
 2. Open the project folder  
    ```bash
    cd AmazonClone
-   ```
+   ```  
 3. Open `index.html` in any web browser  
 
 ---
 
-## 💡 Learning Outcomes
+## 💡 Learning Outcomes  
 
 - Practiced HTML page structuring and semantic design  
 - Strengthened understanding of CSS layout and alignment  
@@ -82,22 +84,23 @@ AmazonClone/
 
 ---
 
-## 📸 Preview
+## 📸 Preview  
 
 Here are a few previews of the project:
 
-![Amazon Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon1.png)
-![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon2.png)
-![Amazon Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon3.png)
+![Amazon Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon1.png)  
+![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon2.png)  
+![Amazon Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon3.png)  
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
 
-**Ronik Bajakke**
+**Ronik Bajakke**  
 
 - 🌍 [GitHub Profile](https://github.com/ronik-bajakke)  
-- 🔗 [Live Project](https://ronik-bajakke.github.io/AmazonClone/)
+- 🔗 [Live Project](https://ronik-bajakke.github.io/AmazonClone/)  
 
 ---
 
+⭐ *If you like this project, consider giving it a star on GitHub!*
