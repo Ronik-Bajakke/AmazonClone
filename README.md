@@ -88,8 +88,11 @@ AmazonClone/
 
 Here are a few previews of the project:
 
+**Photo 1**
 ![Amazon Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon1.png)  
-![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon2.png)  
+**Photo 2**
+![Amazon Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon2.png) 
+**Photo 3** 
 ![Amazon Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/amazon3.png)  
 
 ---
@@ -102,5 +105,3 @@ Here are a few previews of the project:
 - 🔗 [Live Project](https://ronik-bajakke.github.io/AmazonClone/)  
 
 ---
-
-⭐ *If you like this project, consider giving it a star on GitHub!*
